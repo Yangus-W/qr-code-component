@@ -4,6 +4,7 @@ body {
   margin: auto 0;
   background-color: hsl(212deg, 45%, 89%);
   font-family: "Outfit", sans-serif;
+  font-size: 15px;
 }
 
 .container {
@@ -24,7 +25,7 @@ body {
 }
 .block__code {
   width: 270px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 .block__code > img {
   width: 100%;
@@ -38,7 +39,6 @@ body {
   margin-bottom: 0;
 }
 .block__text {
-  font-size: 15px;
   color: hsl(220deg, 15%, 55%);
   text-align: center;
   text-align: center;
